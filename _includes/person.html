@@ -23,6 +23,10 @@
 			{% if person.email %}
 				<li class="list-group-item"> <i class="fa fa-envelope"> <a href="mailto:{{person.email}}" target="_blank"> {{person.email}} </a></i> </li>
 			{% endif %}
+				
+			{% if person.github %}
+				<li class="list-group-item"> <i class="fa fa-github"> <a href="https://github.com/{{person.github}}" target="_blank"> {{person.github}} </a></i> </li>
+			{% endif %}
 
 			</ul>
 
