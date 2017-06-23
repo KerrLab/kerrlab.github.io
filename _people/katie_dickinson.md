@@ -5,11 +5,9 @@ current: true
 email: "katiejd8@uw.edu"
 twitter: katie_jane_d 
 image: "/images/people/katie_dickinson.png"
-long_blurb: "I am interested in exploring the evolution of social behaviors, such as altruism, cooperation, communication, spite etc. Altruism appears to be the opposite of natural selection and survival of the fittest. Why would an organism improve the fitness of another at a cost to itself? Yet, cooperation and altruism is widespread in nature. A fascinating question is how cooperation or altruist behavior can evolve and be maintained in the presence of “cheaters,” individuals who take but do not contribute.
+long_blurb: "I am assisting with the development and implementation of authentic research labs to be incorporated into the introductory biology series at the UW (HHMI 'STEM Dawgs' project). These course-based undergraduate research experiences (CURE) - are based on experimental evolution in the bacterium Escherichia coli.
 
-My research focuses on the bacterium Pseudomonas aeruginosa which is an opportunistic pathogen and can cause of disease for immunocompromised people (such as burns victims). It is also the major cause of lung infection in people with cystic fibrosis. In particular, I am interested in the social lives of bacteria and their consequences for disease, the evolution of virulence, and antibiotic resistance.
-
-See here for a BEACON blog post on my work using microbes to explore public good production."
+I am also interested in the social lives of bacteria and their consequences for disease, the evolution of virulence, and antibiotic resistance."
 sort_order: 1
 short_blurb: Researcher, Lab Manager, Administrator
 ---
