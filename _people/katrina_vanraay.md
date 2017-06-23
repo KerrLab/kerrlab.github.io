@@ -7,4 +7,5 @@ twitter: katrinavanraay
 image: "/images/people/katrina_vanraay.png"
 long_blurb: "todo"
 sort_order: 3
+short_blurb: "Antagonistic coevolution, constraints in evolution"
 ---
