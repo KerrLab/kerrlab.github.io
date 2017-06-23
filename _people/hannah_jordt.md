@@ -3,6 +3,7 @@ name: Hannah Jordt
 role: Grad
 current: true
 email: "hljordt@uw.edu"
+twitter: "hljordt"
 image: "/images/people/hannah_jordt.png"
 short_blurb: "plasmids, spread of drug resistance, pedegogy"
 long_blurb: "Many bacteria contain genes on plasmids in addition to their chromosomes. Plasmids can confer advantages and costs to the host. I'm interested in this trade-off, and in determining under which environments plasmids are maintained in bacterial populations.
