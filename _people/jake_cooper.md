@@ -1,7 +1,7 @@
 ---
 name: Jake Cooper
 role: Grad
-current: true
+current: false
 website: "http://students.washington.edu/yankel/"
 email: "yankel@uw.edu"
 image: "/images/people/jake_cooper.png"
