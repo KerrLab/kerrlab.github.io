@@ -5,7 +5,7 @@ current: true
 email: "livkost@uw.edu"
 twitter: livkosterlitz
 image: "/images/people/livheadshot.jpg"
-short_blurb: "Evolution of antibiotic resistance"
+short_blurb: "Evolutionary constraints, antibiotic resistance"
 
 
 sort_order: 3
