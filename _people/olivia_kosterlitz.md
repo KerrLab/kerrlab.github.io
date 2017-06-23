@@ -4,7 +4,7 @@ role: Grad
 current: true
 email: "livkost@uw.edu"
 twitter: livkosterlitz
-image: "/images/people/liv_kosterlitz.png"
+image: "/images/people/livheadshot.jpg"
 short_blurb: ""
 
 
