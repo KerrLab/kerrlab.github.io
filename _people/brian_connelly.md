@@ -3,7 +3,7 @@ name: Brian Connelly
 role: Postdoc Extraordinaire
 current: true
 website: "http://bconnelly.net/"
-email: "bdc@bconnelly.net"
+email: "bdcx@uw.edu"
 twitter: briandconnelly
 github: briandconnelly
 image: "/images/people/brian_connelly.png"
