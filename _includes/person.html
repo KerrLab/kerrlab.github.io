@@ -27,6 +27,12 @@
 			{% if person.github %}
 				<li class="list-group-item"> <i class="fa fa-github"> <a href="https://github.com/{{person.github}}" target="_blank"> {{person.github}} </a></i> </li>
 			{% endif %}
+				
+			{% if person.scholar %}
+				<li class="list-group-item"> <i class="fa fa-graduation-cap""> <a href="https://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> {{person.scholar}} </a></i> </li>
+				{% endif %}		
+
+
 
 			</ul>
 
