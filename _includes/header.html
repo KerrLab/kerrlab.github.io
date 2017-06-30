@@ -28,6 +28,12 @@
         {% else %}
           <li><a href="/papers">Papers</a></li>
         {% endif %}
+        
+                {% if page.active == "education" %}
+          <li class="active"><a href="#">Education</a></li>
+        {% else %}
+          <li><a href="/education">Education</a></li>
+        {% endif %}
 
         {% if page.active == "contact" %}
           <li class="active"><a href="#">Contact</a></li>
