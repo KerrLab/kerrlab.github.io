@@ -1,7 +1,7 @@
 ---
 name: Luis Zaman
 role: Postdoc
-current: true
+current: false
 website: "http://luis.labfab.cc"
 twitter: luiszaman
 email: "luis.zaman@gmail.com"
