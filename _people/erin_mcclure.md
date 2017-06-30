@@ -2,7 +2,7 @@
 name: Erin McClure
 role: Undergrad
 current: true
-image: "/images/people/1026161049~2.jpg"
+image: "/images/people/IMG_1285-2.jpg"
 short_blurb: "Thermostability of Phi-6"
 long_blurb: "todo"
 sort_order: 4
