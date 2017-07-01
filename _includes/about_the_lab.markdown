@@ -8,3 +8,4 @@ Welcome to the Kerr Lab at the University of Washington. We use a combination of
 - Phenotypic plasticity, learning and information processing
 - Evolution in changing environments
 - The levels of selection controversy
+- Major transitions in evolution
