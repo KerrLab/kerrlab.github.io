@@ -11,7 +11,7 @@ active: people
 		{% assign current_people = site.people | sort: "sort_order" | where: "current", true %}
 
 		{% for person in current_people %}
-			{% assign rowfinder = loopindex | modulo: 5 %}
+			{% assign rowfinder = loopindex | modulo: 4 %}
 			{% if rowfinder == 0 %}
 				<div class="row">
 			{% endif %}
@@ -39,7 +39,7 @@ active: people
 		{% assign current_people = site.people | sort: "sort_order" | where: "current", false %}
 
 		{% for person in current_people %}
-			{% assign rowfinder = loopindex | modulo: 5 %}
+			{% assign rowfinder = loopindex | modulo: 4 %}
 			{% if rowfinder == 0 %}
 				<div class="row">
 			{% endif %}
