@@ -1,0 +1,13 @@
+
+{{publication.authors}} 
+({{publication.year}}) 
+{{publication.title}}. 
+<i>{{publication.journal}}</i> 
+
+{% if publication.issue %}
+  <b>{{publication.issue}}</b>:
+{% endif %}
+
+{%if publication.pages %} 
+  {{publication.pages}}
+{% endif %}
