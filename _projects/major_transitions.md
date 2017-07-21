@@ -1,6 +1,6 @@
 ---
 title: Major Transitions in Evolution
-subtitle: Let's take this whole projects thing to the next "level"!
+subtitle: Let's take this whole thing to the next "level"!
 image_url: '/images/projects/major_transitions.png'
 current: true
 sort_order: 0
