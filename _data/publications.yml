@@ -1,30 +1,522 @@
-- title: "Evolution at ‘sutures’ and ‘centers’: recombination can aid adaptation of spatially structured populations on rugged fitness landscapes"
+
+- title: "Evolution at ‘sutures’ and ‘centers’: recombination can aid adaptation of spatially structured populations on rugged fitness landscapes."
   authors: "Cooper, J. and B. Kerr"
   year: 2016
-  journal: "PLoS Computational Biology "
-  issue: "12"
-  pages: "e1005247"
-  link: "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005247"
+  journal: "PLoS Computational Biology"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Cooper_Kerr_2016.pdf"
+  pages: "TODO"
+ 
 
-- title: "Stabilizing multicellularity through ratcheting"
+- title: "Stabilizing multicellularity through ratcheting."
   authors: "Libby*, E., P. L. Conlin*, B. Kerr, W. C. Ratcliff"
   year: 2016
   journal: "Phil. Trans. R. Soc. B"
-  issue: "371"
+  issue: 371
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Libby_Conlin_et_al_2016.pdf"
   pages: "20150444"
-  link: "http://rstb.royalsocietypublishing.org/content/371/1701/20150444"
+ 
 
-- title: "Toxins go viral: phage-encoded lysis releases group B colicins"
+- title: "Toxins go viral: phage-encoded lysis releases group B colicins."
   authors: "van Raay, K. and B. Kerr"
   year: 2016
   journal: "Environmental Microbiology"
-  issue: "18"
+  issue: 18
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=vanRaay_Kerr_2016.pdf"
   pages: "1308–1311"
-  link: "http://kerrlab.org/Public/Publications?action=download&upname=vanRaay_Kerr_2016.pdf"
+ 
 
-- title: "Microbiology: Taking the bad with the good"
+- title: "Transitions in individuality through symbiosis."
+  authors: "Estrela, S., B. Kerr, and J. J. Morris"
+  year: 2016
+  journal: "Current Opinion in Microbiology"
+  issue: 31
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Estrela_et_al_2016b.pdf"
+  pages: "191–198"
+ 
+
+- title: "The evolution of cooperation by the Hankshaw effect."
+  authors: "Hammarlund*, S. P., B. D. Connelly*, K. J. Dickinson, and B. Kerr"
+  year: 2016
+  journal: "Evolution"
+  issue: 70
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Hammarlund_Connelly_et_al_2016.pdf"
+  pages: "1376–1385"
+ 
+
+- title: "Negative niche construction favors the evolution of cooperation."
+  authors: "Connelly, B. D., K. J. Dickinson, S. P. Hammarlund, and B. Kerr"
+  year: 2016
+  journal: "Evolutionary Ecology"
+  issue: 30
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Connelly_et_al_2016.pdf"
+  pages: "267–283"
+ 
+
+- title: "Private benefits and metabolic conflicts shape the emergence of microbial interdependencies."
+  authors: "Estrela, S., J. J. Morris, and B. Kerr"
+  year: 2016
+  journal: "Environmental Microbiology"
+  issue: 18
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Estrela_et_al_2016a.pdf"
+  pages: "1415–1427"
+ 
+
+- title: "Divergence in DNA photorepair efficiency among genotypes from contrasting UV radiation environments in nature."
+  authors: "Miner, B. E., P. M. Kulling, K. D. Beer, and B. Kerr"
+  year: 2015
+  journal: "Molecular Ecology"
+  issue: 24
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Miner_et_al_2015_.pdf"
+  pages: "6177–6187"
+ 
+
+- title: "Why do bacteria regulate public goods by quorum sensing?—How the shapes of cost and benefit functions determine the form of optimal regulation."
+  authors: "Heilmann, S., S. Krishna, and B. Kerr"
+  year: 2015
+  journal: "Frontiers in Microbiology"
+  issue: 6
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Heilmann_et_al_2015"
+  pages: "1-11"
+ 
+
+- title: "Tipping the mutation–selection balance: Limited migration increases the frequency of deleterious mutants."
+  authors: "Cooper, J. D., C. Neuhauser, A. M. Dean, and B. Kerr"
+  year: 2015
+  journal: "Journal of Theoretical Biology"
+  issue: 380
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Cooper_et_al_2015.pdf"
+  pages: "123-133"
+ 
+
+- title: "Microbiology: Taking the bad with the good."
   authors: "Bergstrom, C. and B. Kerr"
   year: 2015
   journal: "Nature"
-  link: "http://kerrlab.org/Public/Publications?action=download&upname=Bergstrom_Kerr_2015.pdf"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Bergstrom_Kerr_2015.pdf"
+  pages: "TODO"
+ 
 
+- title: "A tortoise–hare pattern seen in adapting structured and unstructured populations suggests a rugged fitness landscape in bacteria."
+  authors: "Nahum, J. R., P. Godfrey-Smith, B. N. Harding, J. H. Marcus, J. Carlson-Stevermer, and B. Kerr"
+  year: 2015
+  journal: "Proceedings of the National Academy of Science"
+  issue: 112
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Nahum_et_al_2015.pdf"
+  pages: "7530–7535"
+ 
+
+- title: "Life cycles, fitness decoupling and the evolution of multicellularity."
+  authors: "Hammerschmidt, K., C. Rose, B. Kerr, P. Rainey"
+  year: 2014
+  journal: "Nature"
+  issue: 515
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Hammerschmidt_et_al_2014.pdf"
+  pages: "75-79"
+ 
+
+- title: "Games of life and death: antibiotic resistance and production through the lens of evolutionary game theory."
+  authors: "Conlin, P., J. Chandler, B. Kerr"
+  year: 2014
+  journal: "Current Opinion in Microbiology"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Conlin_et_al_2014.pdf"
+  pages: "TODO"
+ 
+
+- title: "Geometry shapes evolution of early multicellularity."
+  authors: "Libby, E., W. Ratcliff, M. Travisano, B. Kerr"
+  year: 2014
+  journal: "PLoS Computational Biology"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Libby_et_al_2014.pdf"
+  pages: "TODO"
+ 
+
+- title: "The effect of conflicting pressures on the evolution of division of labor."
+  authors: "Goldsby HJ, Knoester DB, Kerr B, Ofria C"
+  year: 2014
+  journal: "PLoS ONE"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Goldsby_et_al2_2014.pdf"
+  pages: "TODO"
+ 
+
+- title: "The evolutionary origin of somatic cells under the dirty work hypothesis."
+  authors: "Goldsby H.J., D.B. Knoester, C. Ofria and B. Kerr"
+  year: 2014
+  journal: "PLoS Biology"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Goldsby_et_al_2014.pdf"
+  pages: "TODO"
+ 
+
+- title: "Evolutionary rescue from extinction is contingent on a lower rate of environmental change."
+  authors: "Lindsey, H., J. Gallie, S. Taylor and B. Kerr"
+  year: 2013
+  journal: "Nature"
+  issue: 494
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Lindsey_et_al_2013.pdf"
+  pages: "463-466"
+ 
+
+- title: "Evolution of altruism."
+  authors: "Glenney, C. and B. Kerr"
+  year: 2013
+  journal: "The Encyclopedia of Genetics, 2nd Edition"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Glenney_Kerr_2013.pdf"
+  pages: "TODO"
+ 
+
+- title: "Gestalt-switching and the evolutionary transitions."
+  authors: "Godfrey-Smith, P. and B. Kerr"
+  year: 2013
+  journal: "The British Journal for the Philosophy of Science"
+  issue: 64
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=GodfreySmithKerr_2013.pdf"
+  pages: "205-222"
+ 
+
+- title: "Task-switching costs promote the evolution of division of labor and shifts in individuality."
+  authors: "Goldsby, H., A. Dornhaus, B. Kerr and C. Ofria"
+  year: 2012
+  journal: "Proceedings of the National Academy of Science"
+  issue: 109
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Goldsby_et_al_2012b.pdf"
+  pages: "13686–13691"
+ 
+
+- title: "The evolution of temporal polyethism."
+  authors: "Goldsby, H., T. Pierce, F. Dyer, B. Kerr and C. Ofria"
+  year: 2012
+  journal: "Artificial Life"
+  issue: 13
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Goldsby_et_al_2012a.pdf"
+  pages: "178-185"
+ 
+
+- title: "Analyzing the effects of species gain and loss on ecosystem function using the extended Price equation partition."
+  authors: "Fox, J. W. and B. Kerr"
+  year: 2012
+  journal: "Oikos"
+  issue: 121
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=FoxKerr_2012.pdf"
+  pages: "290-298"
+ 
+
+- title: "Evolution of restraint in a structured rock-paper-scissors community."
+  authors: "Nahum, J. R., B. N. Harding and B. Kerr"
+  year: 2011
+  journal: "Proceedings of the National Academy of Science"
+  issue: 108
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Nahum_et_al_2011.pdf"
+  pages: "10831-10838"
+ 
+
+- title: "Setting the stage for an egalitarian major transition: The evolution of restraint. For—"
+  authors: "Kerr, B. and J. Nahum"
+  year: 2011
+  journal: "The Major Transitions Revisited: The Evolution of Individuality Eds. K. Sterelny & B. Calcott."
+  issue: 
+  link: "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=12547"
+  pages: ""
+ 
+
+- title: "Conflicts among levels of selection as fuel for the evolution of individuality. For—"
+  authors: "Rainey, P. and B. Kerr"
+  year: 2011
+  journal: "The Major Transitions Revisited: The Evolution of Individuality Eds. K. Sterelny & B. Calcott."
+  issue: 
+  link: "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=12547"
+  pages: ""
+ 
+
+- title: "Adaptation to local ultraviolet radiation conditions among neighbouring"
+  authors: "Miner, B. and B. Kerr"
+  year: 2011
+  journal: "Daphnia"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=MinerKerr_2011.pdf"
+  pages: "TODO"
+ 
+
+- title: "Competitive interactions in"
+  authors: "Majeed, H., O. Gillor, B. Kerr and M. Riley"
+  year: 2011
+  journal: "Escherichia coli"
+  issue: 5
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Majeed_et_al_2011.pdf"
+  pages: "71–81"
+ 
+
+- title: "Unrestricted migration favours virulent pathogens in experimental metapopulations: Evolutionary genetics of a rapacious life history."
+  authors: "Eshelman, C., R. Vouk, J. Stewart, E. Halsne, H. Lindsey, S. Schneider, M. Gualu, A. Dean and B. Kerr"
+  year: 2010
+  journal: "Philosophical Transactions of the Royal Society B."
+  issue: 365
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Eshelman_et_al_2011.pdf"
+  pages: "2503-2513"
+ 
+
+- title: "Cheats as first propagules: a new hypothesis for the evolution of individuality during the transition from single cells to multicellularity."
+  authors: "Rainey, P. and B. Kerr"
+  year: 2010
+  journal: "Bioessays"
+  issue: 32
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=RaineyKerr_2010.pdf"
+  pages: "872–880"
+ 
+
+- title: "Introgression of sexually selected traits in lek-mating species."
+  authors: "Prado, F., T. Billo, and B. Kerr"
+  year: 2009
+  journal: "Evolutionary Ecology Research"
+  issue: 11
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Introgression%20of%20sexually%20selected%20traits.pdf"
+  pages: "1235-1250"
+ 
+
+- title: "Selection in ephemeral networks."
+  authors: "Godfrey-Smith, P. and B. Kerr"
+  year: 2009
+  journal: "American Naturalist"
+  issue: 174
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Selection%20in%20ephemeral%20networks.pdf"
+  pages: "906-911"
+ 
+
+- title: "Coevolutionary cycling of host sociality and pathogen virulence in contact networks."
+  authors: "Prado, F., A. Sheih, J. West, and B. Kerr"
+  year: 2009
+  journal: "Journal of Theoretical Biology"
+  issue: 261
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Coevolutionary%20cycling.pdf"
+  pages: "561-569"
+ 
+
+- title: "Why some memories don’t last a lifetime: Optimal long-term recall in changing environments."
+  authors: "Dunlap, A., C. McLinn, H. MacCormick, M. Scott, and B. Kerr"
+  year: 2009
+  journal: "Behavioral Ecology"
+  issue: 20
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Why%20some%20memories.pdf"
+  pages: "1096-1105"
+ 
+
+- title: "Theoretical and experimental approaches to the evolution of altruism and the levels of selection."
+  authors: "Kerr, B"
+  year: 2009
+  journal: "Experimental Evolution: Concepts, Methods, and Applications of Selection Experiments Eds. T. Garland & M. R. Rose. Berkeley, CA: University of California Press, 585-630."
+  issue: 
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Theoretical%20and%20experimental%20approaches%20to%20the%20evolution%20of%20altruism.pdf"
+  pages: ""
+ 
+
+- title: "Genetic relatedness and disrupted social structure in a poached population of African elephants."
+  authors: "Gobush, K., B. Kerr, and S. Wasser"
+  year: 2009
+  journal: "Molecular Ecology"
+  issue: 18
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Genetic%20relatedness%20and%20disrupted%20social%20structure.pdf"
+  pages: "722-734"
+ 
+
+- title: "Generalization of the Price equation for evolutionary change."
+  authors: "Kerr, B., and P. Godfrey-Smith"
+  year: 2009
+  journal: "Evolution"
+  issue: 63
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Generalization%20of%20the%20Price%20equation.pdf"
+  pages: "531-536"
+ 
+
+- title: "The evolution of restraint in bacterial biofilms under nontransitive competition."
+  authors: "Prado, F., and B. Kerr"
+  year: 2008
+  journal: "Evolution"
+  issue: 62
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=The%20evolution%20of%20restraint%20in%20bacterial%20biofilms.pdf"
+  pages: "538-548"
+ 
+
+- title: "Optimal foraging: A bird in the hand released."
+  authors: "Nahum, J., and B. Kerr"
+  year: 2008
+  journal: "Current Biology"
+  issue: TODO
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Optimal%20foraging.pdf"
+  pages: "TODO"
+ 
+
+- title: "Bacteriophages: Models for exploring basic principles of ecology."
+  authors: "Kerr, B., J. D. West, B. J. M. Bohannan"
+  year: 2008
+  journal: "Bacteriophage ecology: Population growth, evolution, and impact of bacterial viruses Ed. S. T. Abedon. Cambridge, U.K.: University Press, 31-63."
+  issue: 
+  link: "http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521858458"
+  pages: ""
+ 
+
+- title: "Building trust by wasting time."
+  authors: "Bergstrom, C., B. Kerr, and M. Lachmann"
+  year: 2008
+  journal: "Moral Markets Ed. P. J. Zak. Oxfordshire: Princeton University Press, 142-153."
+  issue: 
+  link: "http://press.princeton.edu/titles/8657.html"
+  pages: ""
+ 
+
+- title: "Niche construction and cognitive evolution."
+  authors: "Kerr, B"
+  year: 2007
+  journal: "Biological Theory"
+  issue: 2
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Niche%20construction%20and%20cognitive%20evolution.pdf"
+  pages: "250-262"
+ 
+
+- title: "The ecological and evolutionary dynamics of model bacteriocin communities."
+  authors: "Kerr, B"
+  year: 2007
+  journal: "Bacteriocins: Ecology and Evolution Ed. M.A. Riley and M. A. Chavan. Heidelberg: Springer, 111-134."
+  issue: 
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=The%20ecological%20and%20evolutionary%20dynamics%20of%20model%20bacteriocin%20communities.pdf"
+  pages: ""
+ 
+
+- title: "Local migration promotes competitive restraint in a host-pathogen ‘tragedy of the commons’."
+  authors: "Kerr, B., C. Neuhauser, B. J. M. Bohannan, and A. M. Dean"
+  year: 2006
+  journal: "Nature"
+  issue: 442
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Local%20migration%20promotes%20competitive%20restraint.pdf"
+  pages: "75-78"
+ 
+
+- title: "Impulsiveness without discounting: The ecological rationality hypothesis."
+  authors: "Stephens, D. W., B. Kerr, and E. Fernández-Juricic"
+  year: 2004
+  journal: "Proceedings of the Royal Society, Series B"
+  issue: 271
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Impulsiveness%20without%20discounting.pdf"
+  pages: "2459-2465"
+ 
+
+- title: "The Caucas-race of the Dodo: A review of Genetic and Cultural Evolution of Cooperation."
+  authors: "Kerr, B"
+  year: 2004
+  journal: "Biology and Philosophy"
+  issue: 19
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=The%20Caucas-race%20of%20the%20Dodo.pdf"
+  pages: "781-799"
+ 
+
+- title: "When are two heads better than one? Visual perception and information transfer affect the value of vigilance coordination in foraging groups."
+  authors: "Fernández-Juricic, E., B. Kerr, P. A. Bednekoff, and D. W. Stephens"
+  year: 2004
+  journal: "Behavioral Ecology"
+  issue: 15
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=When%20are%20two%20heads%20better%20than%20one.pdf"
+  pages: "898-906"
+ 
+
+- title: "Asking big questions of small worlds: Microbial model systems in ecological research."
+  authors: "Jessup, C., R. Kassen, S. E. Forde, B. Kerr, A. Buckling, P. B. Rainey, and B. J. M. Bohannan"
+  year: 2004
+  journal: "Trends in Ecology and Evolution"
+  issue: 19
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Asking%20big%20questions%20of%20small%20worlds.pdf"
+  pages: "189-197"
+ 
+
+- title: "What is altruism?"
+  authors: "Kerr, B., P. Godfrey-Smith and M. W. Feldman"
+  year: 2004
+  journal: "Trends in Ecology and Evolution"
+  issue: 19
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=What%20is%20altruism.pdf"
+  pages: "135-140"
+ 
+
+- title: "Carving the cognitive niche: Optimal learning strategies in homogeneous and heterogeneous environments."
+  authors: "Kerr, B., and M. W. Feldman"
+  year: 2003
+  journal: "Journal of Theoretical Biology"
+  issue: 220
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Carving%20the%20cognitive%20niche.pdf"
+  pages: "169-188"
+ 
+
+- title: "Local dispersal promotes biodiversity in a real-life game of rock-paper-scissors."
+  authors: "Kerr, B., M. A. Riley, M. W. Feldman, and B. J. M. Bohannan"
+  year: 2002
+  journal: "Nature"
+  issue: 418
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Local%20dispersal%20promotes%20biodiversity.pdf"
+  pages: "171-174"
+ 
+
+- title: "Trade-offs and coexistence in microbial microcosms."
+  authors: "Bohannan, B. J. M., B. Kerr, C. Jessup, J. Hughes, and G. Sandvik"
+  year: 2002
+  journal: "Antonie von Leeuvenhoek"
+  issue: 81
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Trade-offs%20and%20coexistence%20in%20microbial%20microcosms.pdf"
+  pages: "107-115"
+ 
+
+- title: "On individualist and multi-level perspectives on selection in structured populations."
+  authors: "Kerr, B. and P. Godfrey-Smith"
+  year: 2002
+  journal: "Biology and Philosophy"
+  issue: 17
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=On%20individualist%20and%20multi-level%20perspectives%20on%20selection%20in%20structured%20populations.pdf"
+  pages: "477-517"
+ 
+
+- title: "On Price's equation and average fitness."
+  authors: "Kerr, B. and P. Godfrey-Smith"
+  year: 2002
+  journal: "Biology and Philosophy"
+  issue: 17
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=On%20Prices%20equation%20and%20average%20fitness.pdf"
+  pages: "551-565"
+ 
+
+- title: "Group fitness and multi-level selection: Replies to commentaries."
+  authors: "Godfrey-Smith, P. and B. Kerr"
+  year: 2002
+  journal: "Biology and Philosophy"
+  issue: 17
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Group%20fitness%20and%20multi-level%20selection.pdf"
+  pages: "539-550"
+ 
+
+- title: "Genetic niche-hiking: An alternative explanation for the evolution of flammability."
+  authors: "Schwilk, D. W. and B. Kerr"
+  year: 2002
+  journal: "Oikos"
+  issue: 99
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Genetic%20niche-hiking.pdf"
+  pages: "431-442"
+ 
+
+- title: "Models of sexual selection on a quantitative genetic trait when preference is acquired by sexual imprinting."
+  authors: "Aoki, K., M. W. Feldman, and B. Kerr"
+  year: 2001
+  journal: "Evolution"
+  issue: 55
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Models%20of%20sexual%20selection%20on%20a%20quantitative%20genetic%20trait.pdf"
+  pages: "25-32"
+ 
+
+- title: "Rekindling an old flame: A haploid model for the evolution and impact of flammability in resprouting plants."
+  authors: "Kerr, B., D. W. Schwilk, A. Bergman, and M. W. Feldman"
+  year: 1999
+  journal: "Evolutionary Ecology Research"
+  issue: 1
+  link: "http://kerrlab.org/Public/Publications?action=download&amp;upname=Rekindling%20an%20old%20flame.pdf"
+  pages: "807-833"
+ 
