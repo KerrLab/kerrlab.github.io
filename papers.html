@@ -3,12 +3,16 @@ title: Publications
 description: Publications
 permalink: /papers/
 layout: default
+active: papers
 ---
 
 <style>
 h1 {font-size: 1.5em;}
 </style>
 
+<div class="container-fluid">
+	<h1>Publications</h1>
+	
 {% assign grouped = site.data.publications | group_by: "year" %}
 
 {% for year in grouped %}
@@ -28,3 +32,7 @@ h1 {font-size: 1.5em;}
 </div>
 
 {% endfor %}
+	
+</div>
+
+
