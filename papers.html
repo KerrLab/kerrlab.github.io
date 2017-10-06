@@ -9,6 +9,11 @@ layout: default
 h1 {font-size: 1.5em;}
 </style>
 
+
+{% assign grouped = site.data.publications | group_by: "year" %}
+
+{% for year in grouped %}
+
 <div class="container">
   <div class="row">
     <div class="col-md-2">
@@ -17,10 +22,7 @@ h1 {font-size: 1.5em;}
 <div class="container">
   <div class="row">
     <div class="col-md-8">
-
-{% assign grouped = site.data.publications | group_by: "year" %}
-
-{% for year in grouped %}
+	    
 	<h1>{{year.name}}</h1>
 	<ul>
 	{% for publication in year.items %}
@@ -28,10 +30,13 @@ h1 {font-size: 1.5em;}
 	{% endfor %}
 	</ul>
 	</br>
+	  
 </div>
-{% endfor %}
-
+	
 <div class="container">
   <div class="row">
     <div class="col-md-2">
 </div>
+
+{% endfor %}
+
