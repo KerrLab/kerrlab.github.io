@@ -5,7 +5,7 @@ active: projects
 <div class="container-fluid">
 	<h1>Current Projects</h1>
 	{% assign current_projects = site.projects | sort: "sort_order" | where: "current", true %}
-	<!-- {% assign loopindex = 0 %} -->
+	{% assign loopindex = 0 %}
 			
 	{% for proj in current_projects %}
 		<!--{% assign rowfinder = loopindex | modulo: 2 %} -->
@@ -19,7 +19,7 @@ active: projects
 			</div>
 		<!-- {% endif %} -->
 
-		<!-- {% assign loopindex = loopindex | plus: 1 %} -->
+		{% assign loopindex = loopindex | plus: 1 %}
 
 	{% endfor %}
 </div>
