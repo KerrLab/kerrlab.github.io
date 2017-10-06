@@ -1,8 +1,9 @@
 ---
-title: Antibiotic Resistance
-subtitle: Drugs and bugs: model evolutionary systems
+title: Will be ABR
+subtitle: Solving the paradox
 current: true
-image_url: '/images/projects/Daphnia.png'
-sort_order: 7
-blurb: The rise of antibiotic resistance is a current global health crisis. However, bacterial adaptation to antibiotics is also an extremely useful framework for studying the process of evolution. In our work examining the effects of rates of change in drug concentration on bacterial populations (Lindsey et al., 2013), we found that some evolutionary trajectories are contingent on slower rates of drug increase.  We have also used the lens of evolutionary game theory to better understand some forms of antibiotic resistance (Conlin et al. 2014). We are currently exploring the role of pleiotropy, epistasis, and plasmid evolution on the emergence of multi-drug resistance, and are using high-throughput genetic screening techniques to make short-term predictions about the evolution of resistance. 
+image_url: '/images/projects/cooperator.png'
+sort_order: 4
+blurb: Throughout nature, there are examples of organisms cooperating with others, both members of their own species and other species. But from an evolutionary perspective, cooperative behaviors seem counterintuitive. How do cooperators avoid being exploited by “cheaters” that do not pay the costs of cooperation, but benefit from the cooperation of others? One solution to this dilemma is found by cooperating only with other cooperators. Using both lab experiments and computer simulations, we have found that when organisms disperse and interact locally, patches of cooperators can outgrow cheater patches and become abundant (Prado & Kerr 2008; Nahum et al., 2011). When populations are mixed—similar to growth in a test tube—cooperators can be exploited by cheaters and driven to extinction. We have also explored how cooperator patches may be more likely to gain adaptations to their environment. These adaptations can be beneficial enough to give cooperators a selective advantage over non-adapted cheaters (Hammarlund et al., 2016; Connelly et al., 2016).
 ---
+
