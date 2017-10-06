@@ -1,6 +1,6 @@
 ---
 title: Antibiotic Resistance
-subtitle: Drugs and bugs
+subtitle: Drugs and bugs: Not colon!
 current: true
 image_url: '/images/projects/game.png'
 sort_order: 7
