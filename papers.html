@@ -13,11 +13,6 @@ h1 {font-size: 1.5em;}
 {% assign grouped = site.data.publications | group_by: "year" %}
 
 {% for year in grouped %}
-
-<div class="container">
-  <div class="row">
-    <div class="col-md-2">
-</div>
 	  
 <div class="container">
   <div class="row">
@@ -32,11 +27,5 @@ h1 {font-size: 1.5em;}
 	</br>
 	  
 </div>
-	
-<div class="container">
-  <div class="row">
-    <div class="col-md-2">
-</div>
 
 {% endfor %}
-
