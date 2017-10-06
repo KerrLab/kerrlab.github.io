@@ -1,6 +1,6 @@
 ---
 title: Antibiotic Resistance
-subtitle: Environmental variation and evolution
+subtitle: Drugs and bugs
 current: true
 image_url: '/images/projects/Daphnia.png'
 sort_order: 7
