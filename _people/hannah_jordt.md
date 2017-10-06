@@ -10,5 +10,5 @@ long_blurb: "Many bacteria contain genes on plasmids in addition to their chromo
 
 
 I'm also interested in science pedagogy, reducing achievement gaps, and exploring how active learning can best be used to increase student performance in STEM. "
-sort_order: 2
+sort_order: 3
 ---
