@@ -5,6 +5,22 @@ permalink: /papers/
 layout: default
 ---
 
+<style>
+h1 { 
+    font-size: 1.5em;
+}
+	
+</style>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-2">
+</div>
+	  
+<div class="container">
+  <div class="row">
+    <div class="col-xs-8">
+
 {% assign grouped = site.data.publications | group_by: "year" %}
 
 {% for year in grouped %}
@@ -15,4 +31,12 @@ layout: default
 	{% endfor %}
 	</ul>
 	</br>
+	  
+</div>
+	
+<div class="container">
+  <div class="row">
+    <div class="col-md-2">
+</div>
+	
 {% endfor %}
