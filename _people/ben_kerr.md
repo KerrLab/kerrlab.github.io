@@ -1,6 +1,7 @@
 ---
 name: Ben Kerr
 role: PI
+short_blurb: Evolutionary biology
 current: true
 website: "http://kerrlab.org/Public/BenKerr"
 email: "kerrb@uw.edu"
