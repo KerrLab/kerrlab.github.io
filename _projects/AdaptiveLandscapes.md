@@ -1,0 +1,9 @@
+---
+title: Adaptive Landscapes
+subtitle: The nature of evolutionary constraints
+image_url: '/images/projects/adaptive_landscape.png'
+project_url: '/projects/adaptivelandscapes.html'
+current: true
+sort_order: 2
+blurb: The “adaptive landscape” is a visual metaphor meant to convey how constrained or contingent the evolutionary process of adaptation is.  The essential ingredients of the landscape include an assignment of genotypes to fitness values and some information about how genotypes are connected (for instance, by mutation).  These ingredients specify the “topography” of the landscape.  At the extremes, a landscape can be “smooth,” whereby the most fit genotype can be reached by a series of beneficial mutations from any other genotype, or “rugged,” whereby multiple genotypes are locally optimal and adaptive paths to each originate from only a strict subset of genotypes. A population evolving by natural selection is likened to a climber ascending peaks.  In the same way that landscape topography affects a climber’s options, adaptive landscape topography affects a population’s evolutionary options. Our lab is interested in studying the shape of these adaptive landscapes.  We do this through engineering genotypes and measuring fitness in microbes (e.g., Lindsey et al., 2013) as well as using statistical features of evolution in structured versus unstructured populations as indicators of landscape topography (e.g., Nahum et al., 2015).  We are also modeling the effects of population structure and sexual recombination on adaptation in rugged adaptive landscapes (Cooper et al., 2015; Cooper & Kerr 2016).  Finally, we are interested in studying how the shape of the landscape depends on the environment and how changes in the environment can influence adaptive evolution (Lindsey et al., 2013).
+---
