@@ -1,6 +1,6 @@
 ---
 title: Major Transitions in Evolution
-subtitle: Let's take this whole thing to the next "level"!
+subtitle: The Origins of Individuality
 current: true
 image_url: '/images/projects/major_transitions.png'
 sort_order: 0
