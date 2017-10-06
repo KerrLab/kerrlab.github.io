@@ -9,15 +9,15 @@ layout: default
 h1 {font-size: 1.5em;}
 </style>
 
-<h1 style="color:grey;">Publications</h1>
-
 {% assign grouped = site.data.publications | group_by: "year" %}
 
-{% for year in grouped %}
-	  
 <div class="container">
   <div class="row">
     <div class="col-md-10">
+	    
+<h1 style="color:grey;">Publications</h1>
+
+{% for year in grouped %}
 	    
 	<h1>{{year.name}}</h1>
 	<ul>
