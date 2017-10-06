@@ -1,6 +1,6 @@
 ---
-title: Will be ABR
-subtitle: Solving the paradox
+title: Antibiotic Resistance
+subtitle: Drugs and bugs: model evolutionary systems
 current: true
 image_url: '/images/projects/cooperator.png'
 sort_order: 7
