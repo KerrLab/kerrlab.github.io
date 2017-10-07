@@ -6,12 +6,9 @@ layout: default
 active: papers
 ---
 
-<style>
-h1 {font-size: 1.5em;}
-</style>
 
 <div class="container-fluid">
-	<h1>Publications</h1>
+	<h2>Publications</h2>
 	
 {% assign grouped = site.data.publications | group_by: "year" %}
 
@@ -21,7 +18,7 @@ h1 {font-size: 1.5em;}
   <div class="row">
     <div class="col-md-10">
 	    	    
-	<h1>{{year.name}}</h1>
+	<h2>{{year.name}}</h2>
 	<ul>
 	{% for publication in year.items %}
 		<li>{% include pub.html %}</li>
